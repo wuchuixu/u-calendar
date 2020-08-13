@@ -1,0 +1,29 @@
+{
+  "name": "u-calendar",
+  "version": "1.0.0",
+  "description": "Create calendar class only, Can be used in react or vue",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuchuixu/u-calendar.git"
+  },
+  "keywords": [
+    "calendar",
+    "typescript",
+    "react",
+    "vue"
+  ],
+  "author": "wuchuixu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuchuixu/u-calendar/issues"
+  },
+  "homepage": "https://github.com/wuchuixu/u-calendar#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
