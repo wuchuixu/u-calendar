@@ -1,6 +1,6 @@
 {
   "name": "u-calendar",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Create calendar class only, Can be used in react or vue",
   "main": "dist/index.js",
   "scripts": {
